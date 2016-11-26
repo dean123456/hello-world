@@ -1,4 +1,4 @@
 # hello-world
 My first repository with brunch
 
-denn commit 2 commit
+I'm in master now
